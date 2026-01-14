@@ -5,7 +5,7 @@ layout: default
 # Welcome to the Book Record
 
 This site hosts the complete online version of the book  
-**Discovering Chaos in Prime Numbers — Computational Investigations via the Euler's Mirror**.
+**Discovering Chaos in Prime Numbers — Computational Investigations via the Euler Mirror**.
 
 The work investigates the emergence of spectral universality from arithmetic structures, with particular emphasis on prime counting fluctuations, scale effects, and Random Matrix Theory diagnostics.
 
