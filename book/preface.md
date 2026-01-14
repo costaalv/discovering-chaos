@@ -165,4 +165,4 @@ Let us begin.**
 
 ---
 
-[Contents](./index.md) | [Next Chapter $\to$](../book/reader_note.md)
+[Contents](./index.md) | [Reader Note $\to$](../book/reader_note.md)

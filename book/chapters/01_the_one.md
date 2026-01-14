@@ -140,4 +140,4 @@ The arithmetic system does not organise itself as a succession of isolated point
 
 ---
 
-[$\gets$ Previous Chapter](../../book/preface.md) | [Contents](../../index.md) | [Next Chapter $\to$](./02_pi_and_delta_pi.md)
+[$\gets$ Editoral Note](../../book/editorial_note.md) | [Contents](../../index.md) | [Next Chapter $\to$](./02_pi_and_delta_pi.md)
