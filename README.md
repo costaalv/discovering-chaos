@@ -11,15 +11,9 @@ All claims documented here are grounded exclusively in operational reproducibili
 
 ## How to access
 
-1. **Online reading**
-   The full text is available in HTML format:
-   [https://costaalv.github.io/hidden-structure-prime-spectra](https://costaalv.github.io/hidden-structure-prime-spectra)
-
-2. **Computational laboratory**
-   Reproducible experiments are provided in the `/notebooks` directory and can be executed directly in **Google Colab**.
-
-3. **Archival reference**
-   A persistent archival version of this work, including source text and executable notebooks, is available via **Zenodo** with a DOI, ensuring long-term accessibility and citability.
+1. **Definitive Version (PDF):** [Download the complete book as a PDF](https://costaalv.github.io/discovering-chaos/book/discovering_chaos.pdf) — Recommended for archival purposes and offline study.
+2. **Online Reading:** [Access the HTML version of the book here](https://costaalv.github.io/discovering_chaos)
+3. **Laboratory:** Run the experiments in the `/notebooks` directory via Google Colab.
 
 ---
 
