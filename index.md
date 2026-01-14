@@ -5,7 +5,7 @@ layout: default
 # Welcome to the Book Record
 
 This site hosts the complete online version of the book  
-**Discovering Chaos in Prime Numbers — Computational Investigations via the Euler Mirror**.
+**Discovering Chaos in Prime Numbers — Computational Investigations via the Euler's Mirror**.
 
 The work investigates the emergence of spectral universality from arithmetic structures, with particular emphasis on prime counting fluctuations, scale effects, and Random Matrix Theory diagnostics.
 
@@ -50,21 +50,21 @@ The work investigates the emergence of spectral universality from arithmetic str
 
 The computational records below are designed for direct execution in **Google Colab** and serve as instruments of independent verification, in accordance with the editorial note.
 
-* [Experiment 01: The One](https://colab.research.google.com/github/costaalv/hidden-structure-prime-spectra/blob/main/notebooks/01_the_one.ipynb)
-* [Experiment 02: Pi and Delta Pi](https://colab.research.google.com/github/costaalv/hidden-structure-prime-spectra/blob/main/notebooks/02_pi_and_delta_pi.ipynb)
-* [Experiment 03: The Search for Balance](https://colab.research.google.com/github/costaalv/hidden-structure-prime-spectra/blob/main/notebooks/03_search_balance.ipynb)
-* [Experiment 04: The Harmonic Spectrometer](https://colab.research.google.com/github/costaalv/hidden-structure-prime-spectra/blob/main/notebooks/04_operator_M.ipynb)
-* [Experiment 05: Spectral Mechanics](https://colab.research.google.com/github/costaalv/hidden-structure-prime-spectra/blob/main/notebooks/05_spectral_mechanics.ipynb)
-* [Experiment 06: Scale Regimes and Spectral Statistics](https://colab.research.google.com/github/costaalv/hidden-structure-prime-spectra/blob/main/notebooks/06_scale_regimes_and_spectral_statistics.ipynb)
-* [Experiment 07: Recognition of a Universal Class](https://colab.research.google.com/github/costaalv/hidden-structure-prime-spectra/blob/main/notebooks/07_eigenvalues_recognition_of_goe.ipynb)
-* [Experiment 08: The Discovery Lens](https://colab.research.google.com/github/costaalv/hidden-structure-prime-spectra/blob/main/notebooks/08_the_discovery_lens.ipynb)
-* [Experiment 09: The Logarithmic Scale](https://colab.research.google.com/github/costaalv/hidden-structure-prime-spectra/blob/main/notebooks/09_logarithmic_scale.ipynb)
-* [Experiment 10: Conditions for Chaos](https://colab.research.google.com/github/costaalv/hidden-structure-prime-spectra/blob/main/notebooks/10_conditions_for_chaos.ipynb)
-* [Experiment 11: Eigenvector Anatomy](https://colab.research.google.com/github/costaalv/hidden-structure-prime-spectra/blob/main/notebooks/11_eigenvector_anatomy.ipynb)
-* [Experiment 12: The Mirror Observer](https://colab.research.google.com/github/costaalv/hidden-structure-prime-spectra/blob/main/notebooks/12_mirror_observer.ipynb)
-* [Experiment 13: Scale Sweeps](https://colab.research.google.com/github/costaalv/hidden-structure-prime-spectra/blob/main/notebooks/13_scale_sweeps.ipynb)
-* [Experiment 14: Alternative Operators](https://colab.research.google.com/github/costaalv/hidden-structure-prime-spectra/blob/main/notebooks/14_alternative_operators.ipynb)
-* [Experiment 15: Stratospheric Heights](https://colab.research.google.com/github/costaalv/hidden-structure-prime-spectra/blob/main/notebooks/15_stratospheric_heights.ipynb)
+* [Experiment 01: The One](https://colab.research.google.com/github/costaalv/discovering-chaos/blob/main/notebooks/01_the_one.ipynb)
+* [Experiment 02: Pi and Delta Pi](https://colab.research.google.com/github/costaalv/discovering-chaos/blob/main/notebooks/02_pi_and_delta_pi.ipynb)
+* [Experiment 03: The Search for Balance](https://colab.research.google.com/github/costaalv/discovering-chaos/blob/main/notebooks/03_search_balance.ipynb)
+* [Experiment 04: The Harmonic Spectrometer](https://colab.research.google.com/github/costaalv/discovering-chaos/blob/main/notebooks/04_operator_M.ipynb)
+* [Experiment 05: Spectral Mechanics](https://colab.research.google.com/github/costaalv/discovering-chaos/blob/main/notebooks/05_spectral_mechanics.ipynb)
+* [Experiment 06: Scale Regimes and Spectral Statistics](https://colab.research.google.com/github/costaalv/discovering-chaos/blob/main/notebooks/06_scale_regimes_and_spectral_statistics.ipynb)
+* [Experiment 07: Recognition of a Universal Class](https://colab.research.google.com/github/costaalv/discovering-chaos/blob/main/notebooks/07_eigenvalues_recognition_of_goe.ipynb)
+* [Experiment 08: The Discovery Lens](https://colab.research.google.com/github/costaalv/discovering-chaos/blob/main/notebooks/08_the_discovery_lens.ipynb)
+* [Experiment 09: The Logarithmic Scale](https://colab.research.google.com/github/costaalv/discovering-chaos/blob/main/notebooks/09_logarithmic_scale.ipynb)
+* [Experiment 10: Conditions for Chaos](https://colab.research.google.com/github/costaalv/discovering-chaos/blob/main/notebooks/10_conditions_for_chaos.ipynb)
+* [Experiment 11: Eigenvector Anatomy](https://colab.research.google.com/github/costaalv/discovering-chaos/blob/main/notebooks/11_eigenvector_anatomy.ipynb)
+* [Experiment 12: The Mirror Observer](https://colab.research.google.com/github/costaalv/discovering-chaos/blob/main/notebooks/12_mirror_observer.ipynb)
+* [Experiment 13: Scale Sweeps](https://colab.research.google.com/github/costaalv/discovering-chaos/blob/main/notebooks/13_scale_sweeps.ipynb)
+* [Experiment 14: Alternative Operators](https://colab.research.google.com/github/costaalv/discovering-chaos/blob/main/notebooks/14_alternative_operators.ipynb)
+* [Experiment 15: Stratospheric Heights](https://colab.research.google.com/github/costaalv/discovering-chaos/blob/main/notebooks/15_stratospheric_heights.ipynb)
 
 > When opening the links above, GitHub will display the notebooks with an option for direct execution in Google Colab.
 

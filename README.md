@@ -11,8 +11,8 @@ All claims documented here are grounded exclusively in operational reproducibili
 
 ## How to access
 
-1. **Definitive Version (PDF):** [Download the complete book as a PDF](https://costaalv.github.io/discovering-chaos/book/discovering_chaos.pdf) — Recommended for archival purposes and offline study.
-2. **Online Reading:** [Access the HTML version of the book here](https://costaalv.github.io/discovering_chaos)
+1. **Definitive Version (PDF):** [Download the complete book as a PDF](https://costaalv.github.io/discovering-chaos/book/discovering-chaos.pdf) — Recommended for archival purposes and offline study.
+2. **Online Reading:** [Access the HTML version of the book here](https://costaalv.github.io/discovering-chaos)
 3. **Laboratory:** Run the experiments in the `/notebooks` directory via Google Colab.
 
 ---
