@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+
+message: >
+  If you use this work for academic or technical reference,
+  please cite it as indicated below.
+
+type: book
+
+title: >
+  Discovering Chaos in Prime Numbers —
+  Computational Experiments through the Euler's Mirror
+
+authors:
+  - family-names: Costa
+    given-names: Alvaro
+
+year: 2025
+
+abstract: >
+  This work documents an operationally reproducible observation:
+  deterministic operators constructed from prime number arithmetic,
+  without direct reference to the non-trivial zeros of the Riemann zeta function,
+  exhibit spectral statistics compatible with the Gaussian Orthogonal Ensemble (GOE)
+  when observed at an appropriate structural scale.
+  The repository preserves the mathematical exposition,
+  fully reproducible computational notebooks,
+  and executable demonstrations supporting this phenomenon.
+
+license: CC-BY-NC-ND-4.0
+
+keywords:
+  - prime numbers
+  - random matrix theory
+  - quantum chaos
+  - GOE
+  - spectral statistics
+  - arithmetic structures
+  - reproducible computation
+
+repository-code: https://github.com/costaalv/discovering-chaos
+
+url: https://costaalv.github.io/discovering-chaos
+
+preferred-citation:
+  type: book
+  title: >
+    Discovering Chaos in Prime Numbers —
+    Computational Experiments through the Euler's Mirror
+  authors:
+    - family-names: Costa
+      given-names: Alvaro
+  year: 2025
+  publisher: "Public technical–historical record"
+  url: https://costaalv.github.io/discovering-chaos
