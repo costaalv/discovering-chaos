@@ -48,7 +48,7 @@ Readers interested only in the operational result may proceed directly to the no
 
 ---
 
-## Conceptual note — where quantum chaos resides
+## Conceptual note — Where quantum chaos resides
 
 This repository functions as a **technical custody record**.
 
