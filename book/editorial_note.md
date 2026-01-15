@@ -28,4 +28,4 @@ The computational records exist solely so that any reader may verify, for themse
 
 ---
 
-[$\gets$ Reader Note](./reader_note.md) | [Content](../index.md) | [Next Chapter $\to$](./chapters/01_the_one.md)
+[$\gets$ Reader Note](./reader_note.md) | [Contents](../index.md) | [First Chapter $\to$](./chapters/01_the_one.md)

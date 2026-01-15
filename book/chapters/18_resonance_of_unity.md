@@ -71,4 +71,4 @@ They differ only by the direction of observation.
 
 ---
 
-[$\gets$ Previous Chapter](./17_half_statute_of_the_claim.md) | [Contents](../../index.md)
+[$\gets$ Previous Chapter](./17_half_statute_of_the_claim.md) | [Contents](../../index.md) | [Epilogue $\to$](../epilogue.md)

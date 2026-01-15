@@ -134,4 +134,4 @@ The final chapter introduces no new results. It merely returns to the point of o
 
 ---
 
-[$\gets$ Previous Chapter](./17_berry_bridge.md) | [Contents](../../index.md) | [Next Chapter $\to$](./18_resonance_of_unity.md)
+[$\gets$ Previous Chapter](./17_berry_bridge.md) | [Contents](../../index.md) | [Last Chapter $\to$](./18_resonance_of_unity.md)
