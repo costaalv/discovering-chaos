@@ -1,5 +1,7 @@
 # Discovering Chaos in Prime Numbers — Computational experiments through the Euler mirror
 
+DOI: https://doi.org/10.5281/zenodo.18258723
+
 This repository is a **technical and historical record**.
 
 It does not seek persuasion, commercial adoption, or institutional validation.
@@ -41,6 +43,8 @@ All claims documented here are grounded exclusively in operational reproducibili
 4. Draw your own conclusions.
 
 No prior trust, interpretation, or theoretical commitment is required.
+
+Readers interested only in the operational result may proceed directly to the notebooks.
 
 ---
 
