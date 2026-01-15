@@ -110,6 +110,10 @@ They are a **relational signature**: they emerge when structural organisation an
 
 This repository documents this fact **not as conjecture**, but as an **operationally reproducible phenomenon**, verifiable by any reader willing to execute the experiments provided.
 
+## Language note
+
+This repository is the English-language counterpart of the Portuguese repository **Descobrindo o Caos nos Números Primos**, which documents the same phenomenon under a different linguistic and cultural context.
+
 ---
 
 > This repository exists so that the phenomenon remains accessible,
