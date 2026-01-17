@@ -26,7 +26,7 @@ The central question is simple and precise:
 
 > is the observed duality (Poisson versus GOE) a property specific to the structure of the primes, or would any sufficiently irregular signal produce the same effect?
 
-To answer this question, the deterministic arithmetic signal based on $ \Delta_\pi(x) $ is replaced by **pure white noise** — a sequence of genuinely random values, devoid of long-range internal correlations.
+To answer this question, the deterministic arithmetic signal based on $ \Delta_\pi(x) $ is replaced by **independent and identically distributed white noise (i.i.d.)** — a sequence of genuinely random values, devoid of long-range internal correlations.
 
 At first glance, one might expect an even more “chaotic” signal to generate GOE-type statistics in both regimes. The experimental result, however, points in exactly the opposite direction.
 

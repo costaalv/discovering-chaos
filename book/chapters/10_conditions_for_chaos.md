@@ -20,7 +20,7 @@ The methodology developed throughout this work rests on three complementary pill
 
 ### 1. The number line as a dynamic process
 
-The first condition is to abandon the interpretation of the number line as a static object and to observe it instead as a **structurally evolving, scale-dependent process**.
+The first condition is to abandon the interpretation of the number line as a static object and to observe it instead as an **implicit mechanism of arithmetic stabilisation**.
 
 As the parameter $x$ grows, the statistical properties of the system change. This explicit dependence on scale makes it possible to identify distinct regimes: an initial uncorrelated regime, a transition region, and a stabilised regime in which long-range correlations emerge.
 
@@ -28,7 +28,7 @@ Only systems observed as processes, rather than as snapshots, can exhibit this k
 
 ### 2. The active role of the *One*
 
-The second condition is to recognise the structural role of the *One* not merely as a logical axiom, but as an **active stabilising agent**.
+The second condition is to recognise the structural role of the *One* not merely as a logical axiom, but as an **implicit mechanism of arithmetic stabilisation**.
 
 In the construction of the operator, the principle of succession (+1) acts continuously, filling gaps and counterbalancing the multiplicative expansion inherent in prime arithmetic.
 
@@ -77,8 +77,7 @@ The observational “recipe” can now be formulated objectively:
 * recognise the stabilising role of the *One*;
 * align observation with the natural scale of the primes.
 
-It is the rigorous intersection of these three principles — and only this intersection — that allows the counting of primes
-to be transformed into a direct observation of universal chaos statistics.
+It is the rigorous intersection of these three principles, and **only** this intersection, that transforms the counting of primes into an observable regime of universal chaotic statistics.
 
 ---
 

@@ -99,7 +99,13 @@ The observation made here is therefore more restricted and more concrete:
 
 Nothing beyond this is claimed.
 
-What this observation establishes is an experimental fact: a universal class can emerge without any external randomness being injected into the procedure.
+What this observation establishes is an experimental fact: a universal class may emerge without any external randomness being injected into the procedure.
+
+Whenever statistics of the GOE class are mentioned in this work, they should be understood as emerging from a specific structural regime, characterised by the preservation of symmetry and reversibility of the constructed operator, under an appropriate scale of observation.
+
+No claim is made here to universality in the usual dynamical sense of the quantum chaos literature, nor to evidence of deterministic chaos in the classical or semiclassically hyperbolic sense.
+
+The results presented should therefore be interpreted as a spectral diagnosis of structural coherence, conditioned on the alignment between the architecture of the operator and the measuring scale employed.
 
 ## Protocol parameters and stability of the phenomenon
 
@@ -126,6 +132,8 @@ It is essential to maintain the distinction between three levels:
 The third level does not alter the first two. It merely names an observed behaviour.
 
 In this chapter, the behaviour recognised is the statistical membership of the spectrum of the operator $M$, in appropriate regimes, in the universal GOE class.
+
+Observe that the operator $M$, by preserving symmetry and exhibiting structural return under changes of scale, behaves as an arithmetic reflection device.
 
 ---
 

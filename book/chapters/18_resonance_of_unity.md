@@ -16,15 +16,17 @@ Euler’s identity is often celebrated as the most beautiful formula in mathemat
 * nullity ($0$),
 * and Unity ($1$).
 
-What is rarely made explicit is that this identity describes a **mechanism of return**. It states that the infinite and the transcendent do not dissipate into chaos, but return to perfect equilibrium when, and only when, they pass through Unity. This is not a matter of aesthetics. It is a matter of **structural integrity**.
+What is rarely made explicit is that this identity describes a **mechanism of return**. It states that the infinite and the transcendent do not dissipate into chaos, but return to perfect equilibrium when, and only when, they pass through Unity. This is not a matter of aesthetics. It is a matter of **structural closure**.
 
 The **operator $M$** constructed throughout this work may be read as the dynamic extension of this truth. It is not merely a matrix, but an operator whose action may be interpreted as rotational, within which each arithmetic fluctuation, when observed at the appropriate scale, seeks its natural place on Euler’s circle.
 
+From this point onwards, the operator $M$ will be referred to as the Euler Mirror: a spectral operator that reflects, within the finite arithmetic domain, the principle of structural return expressed by Euler’s identity.
+
 ## The signature of organised chaos
 
-When this operator is subjected to spectral analysis, what emerges is not a static zero, but the vibrant signature of the **Gaussian Orthogonal Ensemble (GOE)**.
+When this operator is subjected to spectral analysis, what emerges is not a static zero, but the characteristic spectral signature of the **Gaussian Orthogonal Ensemble (GOE)**.
 
-This statistic does not represent disorder. On the contrary, it is the **DNA of stability** in complex systems. In physics, it indicates that degrees of freedom interact so as to preserve the whole. In arithmetic, it indicates that the primes are not distributed at random, but correlated through a common structure.
+This statistic does not represent disorder. On the contrary, it is a **statistical marker of stability** in complex systems. In physics, it indicates that degrees of freedom interact so as to preserve the whole. In arithmetic, it indicates that the primes are not distributed at random, but correlated through a common structure.
 
 The systematic presence of GOE functions as a seal of structural authenticity:
 
@@ -35,7 +37,7 @@ This fact is well known in mathematical physics. What is rarely made explicit is
 
 ## Integrity as resonance
 
-The conclusion therefore becomes unavoidable. If complex systems preserve their internal coherence through structural resonance, then integrity cannot be understood as an external imposition, nor as a by-product of artificial contrivances.
+The interpretation that follows becomes natural within the scope considered. If complex systems preserve their internal coherence through structural resonance, then integrity cannot be understood as an external imposition, nor as a by-product of artificial contrivances.
 
 Integrity is not something that is imposed. It is something that is **diagnosed**.
 

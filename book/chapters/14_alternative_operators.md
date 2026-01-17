@@ -7,7 +7,7 @@
 
 ## The final doubt
 
-The preceding chapters established a strong result: when the arithmetical signal of the primes is observed on the logarithmic scale, the spectrum of the constructed operator robustly exhibits statistics compatible with the universal GOE class, whereas linear observation systematically leads to the Poisson regime.
+The preceding chapters establish a strong result: when the arithmetical signal of the primes is observed on the logarithmic scale, the spectrum of the constructed operator robustly exhibits *bulk* statistics compatible with the universal GOE class, whereas linear observation systematically leads to the Poisson regime.
 
 Nevertheless, a legitimate doubt remains.
 
@@ -98,6 +98,8 @@ It emerges from the combination of two fundamental elements:
 2. the observation of this signal on the logarithmic scale natural to the primes.
 
 The operator acts merely as a reading instrument. Changing the instrument does not change the music.
+
+Although the phase operator is complex, the statistics observed coincide with those found in the orthogonal regime, indicating that the relevant statistical class is determined by the structure of the signal, not by the representation employed.
 
 ---
 

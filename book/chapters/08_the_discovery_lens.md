@@ -53,8 +53,7 @@ The crucial point is that:
 
 Thus, the difference observed in the spectrum of $M$ **does not originate in the operator**, but in the way the operator’s argument explores the arithmetic structure.
 
-The linear lens “freezes” the signal.  
-The logarithmic lens sets it into vibration.
+The linear lens reduces the effective variability of the signal. The logarithmic lens restores its diversity of phases.
 
 ## Effective complexity and phase mixing
 

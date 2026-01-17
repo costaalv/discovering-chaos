@@ -8,4 +8,4 @@ It resonates.
 
 ---
 
-[$\gets$ Previous Chapter](./capitulos/18_resonance_of_unity.md) | [Contents](../index.md) | [References $\to$](../book/references.md)
+[$\gets$ Last Chapter](./capitulos/18_resonance_of_unity.md) | [Contents](../index.md) | [References $\to$](../book/references.md)
